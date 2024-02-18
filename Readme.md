@@ -1,4 +1,6 @@
 # Introduction
+![](flaxgpt_logo.png)
+
 FlaxGPT is a simplistic Flax implementation of GPT (decoder-only transformer) model.
 The code is minimum in a single notebook and therefore good for hacking and educational purposes.
 
